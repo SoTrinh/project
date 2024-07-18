@@ -1,9 +1,9 @@
-name: base
+name: project-env
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.12
+  - python=3.10
   - conda==24.5.0
   - setuptools
   - pip
